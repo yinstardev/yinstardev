@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yinstardev
+- 👋 Hi, I’m Prashant
 - 👀 I’m interested in Mathematics
-- 🌱 I’m currently learning Rails
+- 🌱 I’m currently learning React/Rails
 - 💞️ I’m looking to collaborate on Ruby Rails
 - 📫 How to reach me discord id : yindev_67585
 
