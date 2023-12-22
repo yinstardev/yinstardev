@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prashant
 - 👀 I’m interested in Mathematics
-- 🌱 I’m currently learning React/Rails
-- 💞️ I’m looking to collaborate on Ruby Rails
+- 🌱 I’m currently learning React, NodeJS, C++
+- 💞️ I’m looking to collaborate on Ruby, Rails, C++, Unreal
 - 📫 How to reach me discord id : yindev_67585
 
 <!---
