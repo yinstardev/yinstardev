@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prashant
-- 👀 I’m interested in Mathematics
-- 🌱 I’m currently learning JS, C++
-- 💞️ I’m looking to collaborate on C++ mini Works, Unreal
+- 👀 I’m interested in Nothing Specific.
+- 🌱 I’m currently learning Everything that comes along my way.
+- 💞️ I’m looking to collaborate on Something you are willing to work.
 - 📫 How to reach me discord id : yindev_67585
 
 <!---
